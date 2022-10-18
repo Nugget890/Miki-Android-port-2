@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Movimiento De Camara XD",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				70285.7142857143,
+				[
+					[
+						"Shader Event",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				142285.714285714,
+				[
+					[
+						"Shader Event",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				142285.714285714,
+				[
+					[
+						"Movimiento De Camara XD",
+						"off",
+						""
+					]
+				]
+			]
+		]
+	}
+}
